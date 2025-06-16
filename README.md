@@ -15,19 +15,19 @@ A powerful web-based tool for extracting individual frames from video files. Bui
 
 ## Demo
 
-Try it live: [Frame Extractor Demo](https://yourusername.github.io/frame-extractor)
+Try it live: [Frame Extractor Demo](https://vredrick.github.io/frame-extractor)
 
 ## Installation
 
 Frame Extractor is a client-side web application that runs entirely in your browser. No installation or server setup required!
 
 ### Option 1: Use GitHub Pages (Recommended)
-Simply visit the [live demo](https://yourusername.github.io/frame-extractor) to start using the application.
+Simply visit the [live demo](https://vredrick.github.io/frame-extractor) to start using the application.
 
 ### Option 2: Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/frame-extractor.git
+   git clone https://github.com/vredrick/frame-extractor.git
    cd frame-extractor
    ```
 
@@ -127,10 +127,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 If you encounter any issues or have questions:
-- Open an [issue](https://github.com/yourusername/frame-extractor/issues)
+- Open an [issue](https://github.com/vredrick/frame-extractor/issues)
 - Check existing issues for solutions
 - Ensure your browser meets the compatibility requirements
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by vredrick
